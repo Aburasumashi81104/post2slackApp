@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">slack mimick</string>
+    <string name="hint">"channel"</string>
+    <string name="hint2">"name"</string>
+    <string name="hint3">"text"</string>
+    <string name="hint4">"iconURL"</string>
+</resources>
