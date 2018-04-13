@@ -4,4 +4,8 @@
     <string name="hint2">"name"</string>
     <string name="hint3">"text"</string>
     <string name="hint4">"iconURL"</string>
+    <string name="hint5">"Input token here"</string>
+    <string name="no_text">"Notext !"</string>
+    <string name="saved">"Token Saved Successfully!!"</string>
+    <string name="read_error">Read file error !</string>
 </resources>
